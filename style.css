@@ -1,0 +1,15 @@
+ H1 { 
+    font-size: 120%; 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: red;
+   }
+
+p1 { 
+
+  color: #4c6271;
+        font-family: Arial; 
+        font-size: 7em;
+        margin: 20px auto;
+        text-shadow: -4px -2px 0 #ece2ca, -6px -4px 0 #5a5a5a;
+   }
+

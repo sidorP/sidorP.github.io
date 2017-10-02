@@ -1,0 +1,17 @@
+H2 { 
+    font-size: 120%; 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: red;
+   }
+
+p2 { 
+
+  background-color: #000;
+         padding: 20px 0;
+         margin: 20px auto;
+         font-family: Garamond;
+         font-size: 7em;
+         text-transform: uppercase;
+         color: #fff;
+         text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+    }
